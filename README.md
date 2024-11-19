@@ -3,7 +3,7 @@ Course material available at [https://fullstackopen.com/en/#course-contents](htt
 ___
 ## Progress tracking
 
-<details> 
+<details open> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 0: Fundamentals of Web apps</span></summary> 
 
 - [x] a: General info

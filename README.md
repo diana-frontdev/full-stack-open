@@ -18,7 +18,7 @@ ___
     - [x] Loading a page containing JavaScript - review [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#loading-a-page-containing-java-script-review)
     - [x] Forms and HTTP POST [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#forms-and-http-post)
     - [x] AJAX [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#ajax)
-    - [ ] Single page app [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#single-page-app)
+    - [x] Single page app [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#single-page-app)
     - [ ] JavaScript-libraries [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#java-script-libraries)
     - [ ] Full-stack web development [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#full-stack-web-development)
     - [ ] JavaScript fatigue [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#java-script-fatigue)

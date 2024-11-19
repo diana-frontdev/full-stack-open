@@ -16,7 +16,7 @@ ___
     - [x] Manipulating the document object from console [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#manipulating-the-document-object-from-console)
     - [x] CSS [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#css)
     - [x] Loading a page containing JavaScript - review [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#loading-a-page-containing-java-script-review)
-    - [ ] Forms and HTTP POST [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#forms-and-http-post)
+    - [x] Forms and HTTP POST [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#forms-and-http-post)
     - [ ] AJAX [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#ajax)
     - [ ] Single page app [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#single-page-app)
     - [ ] JavaScript-libraries [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#java-script-libraries)

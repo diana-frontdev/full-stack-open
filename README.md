@@ -21,7 +21,7 @@ ___
     - [x] Single page app [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#single-page-app)
     - [x] JavaScript-libraries [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#java-script-libraries)
     - [x] Full-stack web development [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#full-stack-web-development)
-    - [ ] JavaScript fatigue [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#java-script-fatigue)
+    - [x] JavaScript fatigue [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#java-script-fatigue)
     - [ ] Exercises 0.1.-0.6. [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#exercises-0-1-0-6)
 </details>
 

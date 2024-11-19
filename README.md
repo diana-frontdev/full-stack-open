@@ -8,7 +8,7 @@ ___
 
 - [x] a: General info
 - [ ] b: Fundamentals of Web apps
-    - [ ] HTTP GET [↗️](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#http-get)
+    - [ ] HTTP GET <a href="https://fullstackopen.com/en/part0/fundamentals_of_web_apps#http-get" target="_blank">🔗</a>
     - [ ] Traditional web applications
     - [ ] Running application logic in the browser
     - [ ] Event handlers and Callback functions

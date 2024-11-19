@@ -9,7 +9,7 @@ ___
 - [x] a: General info
 - [ ] b: Fundamentals of Web apps [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
     - [x] HTTP GET [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#http-get)
-    - [ ] Traditional web applications [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#traditional-web-applications)
+    - [x] Traditional web applications [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#traditional-web-applications)
     - [ ] Running application logic in the browser [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#running-application-logic-in-the-browser)
     - [ ] Event handlers and Callback functions [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#event-handlers-and-callback-functions)
     - [ ] Document Object Model or DOM [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#document-object-model-or-dom)

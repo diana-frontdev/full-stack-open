@@ -14,7 +14,7 @@ ___
     - [x] Event handlers and Callback functions [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#event-handlers-and-callback-functions)
     - [x] Document Object Model or DOM [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#document-object-model-or-dom)
     - [x] Manipulating the document object from console [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#manipulating-the-document-object-from-console)
-    - [ ] CSS [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#css)
+    - [x] CSS [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#css)
     - [ ] Loading a page containing JavaScript - review [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#loading-a-page-containing-java-script-review)
     - [ ] Forms and HTTP POST [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#forms-and-http-post)
     - [ ] AJAX [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#ajax)

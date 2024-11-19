@@ -3,677 +3,679 @@ Course material available at [https://fullstackopen.com/en/#course-contents](htt
 ___
 ## Progress tracking
 
+ [🔗]()
+
 <details open> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 0: Fundamentals of Web apps</span></summary> 
 
 - [x] a: General info
-- [ ] b: Fundamentals of Web apps
-    - [ ] HTTP GET <a href="https://fullstackopen.com/en/part0/fundamentals_of_web_apps#http-get" target="_blank" rel="noopener noreferrer">🔗</a>
-    - [ ] Traditional web applications
-    - [ ] Running application logic in the browser
-    - [ ] Event handlers and Callback functions
-    - [ ] Document Object Model or DOM
-    - [ ] Manipulating the document object from console
-    - [ ] CSS
-    - [ ] Loading a page containing JavaScript - review
-    - [ ] Forms and HTTP POST
-    - [ ] AJAX
-    - [ ] Single page app
-    - [ ] JavaScript-libraries
-    - [ ] Full-stack web development
-    - [ ] JavaScript fatigue
-    - [ ] Exercises 0.1.-0.6.
+- [ ] b: Fundamentals of Web apps [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
+    - [ ] HTTP GET [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#http-get)
+    - [ ] Traditional web applications [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#traditional-web-applications)
+    - [ ] Running application logic in the browser [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#running-application-logic-in-the-browser)
+    - [ ] Event handlers and Callback functions [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#event-handlers-and-callback-functions)
+    - [ ] Document Object Model or DOM [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#document-object-model-or-dom)
+    - [ ] Manipulating the document object from console [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#manipulating-the-document-object-from-console)
+    - [ ] CSS [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#css)
+    - [ ] Loading a page containing JavaScript - review [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#loading-a-page-containing-java-script-review)
+    - [ ] Forms and HTTP POST [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#forms-and-http-post)
+    - [ ] AJAX [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#ajax)
+    - [ ] Single page app [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#single-page-app)
+    - [ ] JavaScript-libraries [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#java-script-libraries)
+    - [ ] Full-stack web development [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#full-stack-web-development)
+    - [ ] JavaScript fatigue [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#java-script-fatigue)
+    - [ ] Exercises 0.1.-0.6. [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#exercises-0-1-0-6)
 </details>
 
 <details> 
-<summary><span style="font-weight: bold; font-size: 16px;">Part 1: Introduction to React</span></summary> 
+<summary><span style="font-weight: bold; font-size: 16px;">Part 1: Introduction to React</span></summary>
 
-- [ ] a: Introduction to React
-  - [ ] create-react-app
-  - [ ] Component
-  - [ ] JSX
-  - [ ] Multiple components
-  - [ ] props: passing data to components
-  - [ ] Possible error message
-  - [ ] Some notes
-  - [ ] Do not render objects
-  - [ ] Exercises 1.1.-1.2.
-- [ ] b: JavaScript
-  - [ ] Variables
-  - [ ] Arrays
-  - [ ] Objects
-  - [ ] Functions
-  - [ ] Exercises 1.3.-1.5.
-  - [ ] Object methods and "this"
-  - [ ] Classes
-  - [ ] JavaScript materials
-- [ ] c: Component state, event handlers
-  - [ ] Component helper functions
-  - [ ] Destructuring
-  - [ ] Page re-rendering
-  - [ ] Stateful component
-  - [ ] Event handling
-  - [ ] An event handler is a function
-  - [ ] Passing state - to child components
-  - [ ] Changes in state cause re-rendering
-  - [ ] Refactoring the components
-- [ ] d: A more complex state, debugging React apps
-  - [ ] Complex state
-  - [ ] Handling arrays
-  - [ ] Update of the state is asynchronous
-  - [ ] Conditional rendering
-  - [ ] Old React
-  - [ ] Debugging React applications
-  - [ ] Rules of Hooks
-  - [ ] Event Handling Revisited
-  - [ ] A function that returns a function
-  - [ ] Passing Event Handlers to Child Components
-  - [ ] Do Not Define Components Within Components
-  - [ ] Useful Reading
-  - [ ] Web programmers oath
-  - [ ] Utilization of Large language models
-  - [ ] Exercises 1.6.-1.14.
+- [ ] a: Introduction to React [🔗](https://fullstackopen.com/en/part1/introduction_to_react)
+  - [ ] create-react-app [🔗](https://fullstackopen.com/en/part1/introduction_to_react#create-react-app)
+  - [ ] Component [🔗](https://fullstackopen.com/en/part1/introduction_to_react#component)
+  - [ ] JSX [🔗](https://fullstackopen.com/en/part1/introduction_to_react#jsx)
+  - [ ] Multiple components [🔗](https://fullstackopen.com/en/part1/introduction_to_react#multiple-components)
+  - [ ] props: passing data to components [🔗](https://fullstackopen.com/en/part1/introduction_to_react#props-passing-data-to-components)
+  - [ ] Possible error message [🔗](https://fullstackopen.com/en/part1/introduction_to_react#possible-error-message)
+  - [ ] Some notes [🔗](https://fullstackopen.com/en/part1/introduction_to_react#some-notes)
+  - [ ] Do not render objects [🔗](https://fullstackopen.com/en/part1/introduction_to_react#do-not-render-objects)
+  - [ ] Exercises 1.1.-1.2. [🔗](https://fullstackopen.com/en/part1/introduction_to_react#exercises-1-1-1-2)
+- [ ] b: JavaScript [🔗](https://fullstackopen.com/en/part1/java_script)
+  - [ ] Variables [🔗](https://fullstackopen.com/en/part1/java_script#variables)
+  - [ ] Arrays [🔗](https://fullstackopen.com/en/part1/java_script#arrays)
+  - [ ] Objects [🔗](https://fullstackopen.com/en/part1/java_script#objects)
+  - [ ] Functions [🔗](https://fullstackopen.com/en/part1/java_script#functions)
+  - [ ] Exercises 1.3.-1.5. [🔗](https://fullstackopen.com/en/part1/java_script#exercises-1-3-1-5)
+  - [ ] Object methods and "this" [🔗](https://fullstackopen.com/en/part1/java_script#object-methods-and-this)
+  - [ ] Classes [🔗](https://fullstackopen.com/en/part1/java_script#classes)
+  - [ ] JavaScript materials [🔗](https://fullstackopen.com/en/part1/java_script#java-script-materials)
+- [ ] c: Component state, event handlers [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers)
+  - [ ] Component helper functions [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#component-helper-functions)
+  - [ ] Destructuring [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#destructuring)
+  - [ ] Page re-rendering [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#page-re-rendering)
+  - [ ] Stateful component [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#stateful-component)
+  - [ ] Event handling [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#event-handling)
+  - [ ] An event handler is a function [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#an-event-handler-is-a-function)
+  - [ ] Passing state - to child components [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#passing-state-to-child-components)
+  - [ ] Changes in state cause re-rendering [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#changes-in-state-cause-re-rendering)
+  - [ ] Refactoring the components [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#refactoring-the-components)
+- [ ] d: A more complex state, debugging React apps [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps)
+  - [ ] Complex state [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#complex-state)
+  - [ ] Handling arrays [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#handling-arrays)
+  - [ ] Update of the state is asynchronous [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#update-of-the-state-is-asynchronous)
+  - [ ] Conditional rendering [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#conditional-rendering)
+  - [ ] Old React [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#old-react)
+  - [ ] Debugging React applications [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#debugging-react-applications)
+  - [ ] Rules of Hooks [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#rules-of-hooks)
+  - [ ] Event Handling Revisited [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#event-handling-revisited)
+  - [ ] A function that returns a function [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#a-function-that-returns-a-function)
+  - [ ] Passing Event Handlers to Child Components [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#passing-event-handlers-to-child-components)
+  - [ ] Do Not Define Components Within Components [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#do-not-define-components-within-components)
+  - [ ] Useful Reading [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#useful-reading)
+  - [ ] Web programmers oath [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#web-programmers-oath)
+  - [ ] Utilization of Large language models [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#utilization-of-large-language-models)
+  - [ ] Exercises 1.6.-1.14. [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#exercises-1-6-1-14)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 2: Communicating with server</span></summary> 
 
-- [ ] a: Rendering a collection, modules
-  - [ ] console.log
-  - [ ] Protip: Visual Studio Code snippets
-  - [ ] JavaScript Arrays
-  - [ ] Event Handlers Revisited
-  - [ ] Rendering Collections
-  - [ ] Key-attribute
-  - [ ] Map 
-  - [ ] Anti-pattern: Array Indexes as Keys
-  - [ ] Refactoring Modules
-  - [ ] When the Application Breaks
-  - [ ] Web developer's oath
-  - [ ] Exercises 2.1.-2.5.
-- [ ] b: Forms
-  - [ ] Saving the notes in the component state
-  - [ ] Controlled component
-  - [ ] Filtering Displayed Elements
-  - [ ] Exercises 2.6.-2.10.
-- [ ] c: Getting data from server
-  - [ ] The browser as a runtime environment
-  - [ ] npm
-  - [ ] Axios and promises
-  - [ ] Effect-hooks
-  - [ ] The development runtime environment
-  - [ ] Exercise 2.11.
-- [ ] d: Altering data in server
-  - [ ] REST
-  - [ ] Sending Data to the Server
-  - [ ] Changing the Importance of Notes
-  - [ ] Extracting Communication with the Backend into a Separate Module
-  - [ ] Cleaner Syntax for Defining Object Literals
-  - [ ] Promises and Errors
-  - [ ] Full stack developer's oath
-  - [ ] Exercises 2.12.-2.15.
-- [ ] e: Adding styles to React app
-  - [ ] Improved error message
-  - [ ] Inline styles
-  - [ ] Exercises 2.16.-2.17.
-  - [ ] Couple of important remarks
-  - [ ] Exercises 2.18.-2.20.
+- [ ] a: Rendering a collection, modules [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules)
+  - [ ] console.log [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#console-log)
+  - [ ] Protip: Visual Studio Code snippets [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#protip-visual-studio-code-snippets)
+  - [ ] JavaScript Arrays [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#java-script-arrays)
+  - [ ] Event Handlers Revisited [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#event-handlers-revisited)
+  - [ ] Rendering Collections [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#rendering-collections)
+  - [ ] Key-attribute [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#key-attribute)
+  - [ ] Map  [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#map)
+  - [ ] Anti-pattern: Array Indexes as Keys [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#anti-pattern-array-indexes-as-keys)
+  - [ ] Refactoring Modules [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#refactoring-modules)
+  - [ ] When the Application Breaks [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#when-the-application-breaks)
+  - [ ] Web developer's oath [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#web-developers-oath)
+  - [ ] Exercises 2.1.-2.5. [🔗](https://fullstackopen.com/en/part2/rendering_a_collection_modules#exercises-2-1-2-5)
+- [ ] b: Forms [🔗](https://fullstackopen.com/en/part2/forms)
+  - [ ] Saving the notes in the component state [🔗](https://fullstackopen.com/en/part2/forms#saving-the-notes-in-the-component-state)
+  - [ ] Controlled component [🔗](https://fullstackopen.com/en/part2/forms#controlled-component)
+  - [ ] Filtering Displayed Elements [🔗](https://fullstackopen.com/en/part2/forms#filtering-displayed-elements)
+  - [ ] Exercises 2.6.-2.10. [🔗](https://fullstackopen.com/en/part2/forms#exercises-2-6-2-10)
+- [ ] c: Getting data from server [🔗](https://fullstackopen.com/en/part2/getting_data_from_server)
+  - [ ] The browser as a runtime environment [🔗](https://fullstackopen.com/en/part2/getting_data_from_server#the-browser-as-a-runtime-environment)
+  - [ ] npm [🔗](https://fullstackopen.com/en/part2/getting_data_from_server#npm)
+  - [ ] Axios and promises [🔗](https://fullstackopen.com/en/part2/getting_data_from_server#axios-and-promises)
+  - [ ] Effect-hooks [🔗](https://fullstackopen.com/en/part2/getting_data_from_server#effect-hooks)
+  - [ ] The development runtime environment [🔗](https://fullstackopen.com/en/part2/getting_data_from_server#the-development-runtime-environment)
+  - [ ] Exercise 2.11. [🔗](https://fullstackopen.com/en/part2/getting_data_from_server#exercise-2-11)
+- [ ] d: Altering data in server [🔗](https://fullstackopen.com/en/part2/altering_data_in_server)
+  - [ ] REST [🔗](https://fullstackopen.com/en/part2/altering_data_in_server#rest)
+  - [ ] Sending Data to the Server [🔗](https://fullstackopen.com/en/part2/altering_data_in_server#sending-data-to-the-server)
+  - [ ] Changing the Importance of Notes [🔗](https://fullstackopen.com/en/part2/altering_data_in_server#changing-the-importance-of-notes)
+  - [ ] Extracting Communication with the Backend into a Separate Module [🔗](https://fullstackopen.com/en/part2/altering_data_in_server#extracting-communication-with-the-backend-into-a-separate-module)
+  - [ ] Cleaner Syntax for Defining Object Literals [🔗](https://fullstackopen.com/en/part2/altering_data_in_server#cleaner-syntax-for-defining-object-literals)
+  - [ ] Promises and Errors [🔗](https://fullstackopen.com/en/part2/altering_data_in_server#promises-and-errors)
+  - [ ] Full stack developer's oath [🔗](https://fullstackopen.com/en/part2/altering_data_in_server#full-stack-developers-oath)
+  - [ ] Exercises 2.12.-2.15. [🔗](https://fullstackopen.com/en/part2/altering_data_in_server#exercises-2-12-2-15)
+- [ ] e: Adding styles to React app [🔗](https://fullstackopen.com/en/part2/adding_styles_to_react_app)
+  - [ ] Improved error message [🔗](https://fullstackopen.com/en/part2/adding_styles_to_react_app#improved-error-message)
+  - [ ] Inline styles [🔗](https://fullstackopen.com/en/part2/adding_styles_to_react_app#inline-styles)
+  - [ ] Exercises 2.16.-2.17. [🔗](https://fullstackopen.com/en/part2/adding_styles_to_react_app#exercises-2-16-2-17)
+  - [ ] Couple of important remarks [🔗](https://fullstackopen.com/en/part2/adding_styles_to_react_app#couple-of-important-remarks)
+  - [ ] Exercises 2.18.-2.20. [🔗](https://fullstackopen.com/en/part2/adding_styles_to_react_app#exercises-2-18-2-20)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 3: Programming a server with NodeJS and Express</span></summary> 
 
-- [ ] a: Node.js and Express
-  - [ ] Simple web server
-  - [ ] Express
-  - [ ] Web and Express
-  - [ ] nodemon
-  - [ ] REST
-  - [ ] Fetching a single resource
-  - [ ] Deleting resources
-  - [ ] Postman
-  - [ ] The Visual Studio Code REST client
-  - [ ] The WebStorm HTTP Client
-  - [ ] Receiving data
-  - [ ] Exercises 3.1.-3.6.
-  - [ ] About HTTP request types
-  - [ ] Middleware
-  - [ ] Exercises 3.7.-3.8.
-- [ ] b: Deploying app to internet
-  - [ ] Same origin policy and CORS
-  - [ ] Application to the Internet
-  - [ ] Frontend production build
-  - [ ] Serving static files from the backend
-  - [ ] The whole app to the internet
-  - [ ] Streamlining deploying of the frontend
-  - [ ] Proxy
-  - [ ] Exercises 3.9.-3.11
-- [ ] c: Saving data to MongoDB
-  - [ ] Debugging Node applications
-  - [ ] MongoDB
-  - [ ] Schema
-  - [ ] Creating and saving objects
-  - [ ] Fetching objects from the database
-  - [ ] Exercise 3.12.
-  - [ ] Connecting the backend to a database
-  - [ ] Moving db configuration to its own module
-  - [ ] Important note to Fly.io users
-  - [ ] Using database in route handlers
-  - [ ] Verifying frontend and backend integration
-  - [ ] Exercises 3.13.-3.14.
-  - [ ] Error handling
-  - [ ] Moving error handling into middleware
-  - [ ] The order of middleware loading
-  - [ ] Other operations
-  - [ ] A true full stack developer's oath
-  - [ ] Exercises 3.15.-3.18.
-- [ ] d: Validation and ESLint
-  - [ ] Deploying the database backend to production
-  - [ ] Exercises 3.19.-3.21.
-  - [ ] Lint
-  - [ ] Exercise 3.22.
+- [ ] a: Node.js and Express [🔗](https://fullstackopen.com/en/part3/node_js_and_express)
+  - [ ] Simple web server [🔗](https://fullstackopen.com/en/part3/node_js_and_express#simple-web-server)
+  - [ ] Express [🔗](https://fullstackopen.com/en/part3/node_js_and_express#express)
+  - [ ] Web and Express [🔗](https://fullstackopen.com/en/part3/node_js_and_express#web-and-express)
+  - [ ] nodemon [🔗](https://fullstackopen.com/en/part3/node_js_and_express#nodemon)
+  - [ ] REST [🔗](https://fullstackopen.com/en/part3/node_js_and_express#rest)
+  - [ ] Fetching a single resource [🔗](https://fullstackopen.com/en/part3/node_js_and_express#fetching-a-single-resource)
+  - [ ] Deleting resources [🔗](https://fullstackopen.com/en/part3/node_js_and_express#deleting-resources)
+  - [ ] Postman [🔗](https://fullstackopen.com/en/part3/node_js_and_express#postman)
+  - [ ] The Visual Studio Code REST client [🔗](https://fullstackopen.com/en/part3/node_js_and_express#the-visual-studio-code-rest-client)
+  - [ ] The WebStorm HTTP Client [🔗](https://fullstackopen.com/en/part3/node_js_and_express#the-web-storm-http-client)
+  - [ ] Receiving data [🔗](https://fullstackopen.com/en/part3/node_js_and_express#receiving-data)
+  - [ ] Exercises 3.1.-3.6. [🔗](https://fullstackopen.com/en/part3/node_js_and_express#exercises-3-1-3-6)
+  - [ ] About HTTP request types [🔗](https://fullstackopen.com/en/part3/node_js_and_express#about-http-request-types)
+  - [ ] Middleware [🔗](https://fullstackopen.com/en/part3/node_js_and_express#middleware)
+  - [ ] Exercises 3.7.-3.8. [🔗](https://fullstackopen.com/en/part3/node_js_and_express#exercises-3-7-3-8)
+- [ ] b: Deploying app to internet [🔗](https://fullstackopen.com/en/part3/deploying_app_to_internet)
+  - [ ] Same origin policy and CORS [🔗](https://fullstackopen.com/en/part3/deploying_app_to_internet#same-origin-policy-and-cors)
+  - [ ] Application to the Internet [🔗](https://fullstackopen.com/en/part3/deploying_app_to_internet#application-to-the-internet)
+  - [ ] Frontend production build [🔗](https://fullstackopen.com/en/part3/deploying_app_to_internet#frontend-production-build)
+  - [ ] Serving static files from the backend [🔗](https://fullstackopen.com/en/part3/deploying_app_to_internet#serving-static-files-from-the-backend)
+  - [ ] The whole app to the internet [🔗](https://fullstackopen.com/en/part3/deploying_app_to_internet#the-whole-app-to-the-internet)
+  - [ ] Streamlining deploying of the frontend [🔗](https://fullstackopen.com/en/part3/deploying_app_to_internet#streamlining-deploying-of-the-frontend)
+  - [ ] Proxy [🔗](https://fullstackopen.com/en/part3/deploying_app_to_internet#proxy)
+  - [ ] Exercises 3.9.-3.11 [🔗](https://fullstackopen.com/en/part3/deploying_app_to_internet#exercises-3-9-3-11)
+- [ ] c: Saving data to MongoDB [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db)
+  - [ ] Debugging Node applications [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#debugging-node-applications)
+  - [ ] MongoDB [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#mongo-db)
+  - [ ] Schema [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#schema)
+  - [ ] Creating and saving objects [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#creating-and-saving-objects)
+  - [ ] Fetching objects from the database [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#fetching-objects-from-the-database)
+  - [ ] Exercise 3.12. [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#exercise-3-12)
+  - [ ] Connecting the backend to a database [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#connecting-the-backend-to-a-database)
+  - [ ] Moving db configuration to its own module [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#moving-db-configuration-to-its-own-module)
+  - [ ] Important note to Fly.io users [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#important-note-to-fly-io-users)
+  - [ ] Using database in route handlers [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#using-database-in-route-handlers)
+  - [ ] Verifying frontend and backend integration [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#verifying-frontend-and-backend-integration)
+  - [ ] Exercises 3.13.-3.14. [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#exercises-3-13-3-14)
+  - [ ] Error handling [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#error-handling)
+  - [ ] Moving error handling into middleware [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#moving-error-handling-into-middleware)
+  - [ ] The order of middleware loading [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#the-order-of-middleware-loading)
+  - [ ] Other operations [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#other-operations)
+  - [ ] A true full stack developer's oath [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#a-true-full-stack-developers-oath)
+  - [ ] Exercises 3.15.-3.18. [🔗](https://fullstackopen.com/en/part3/saving_data_to_mongo_db#exercises-3-15-3-18)
+- [ ] d: Validation and ESLint [🔗](https://fullstackopen.com/en/part3/validation_and_es_lint)
+  - [ ] Deploying the database backend to production [🔗](https://fullstackopen.com/en/part3/validation_and_es_lint#deploying-the-database-backend-to-production)
+  - [ ] Exercises 3.19.-3.21. [🔗](https://fullstackopen.com/en/part3/validation_and_es_lint#exercises-3-19-3-21)
+  - [ ] Lint [🔗](https://fullstackopen.com/en/part3/validation_and_es_lint#lint)
+  - [ ] Exercise 3.22. [🔗](https://fullstackopen.com/en/part3/validation_and_es_lint#exercise-3-22)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 4: Testing Express servers, user administration</span></summary> 
 
-- [ ] a: Structure of backend application, introduction to testing
-  - [ ] Project structure
-  - [ ] Note on exports
-  - [ ] Exercises 4.1.-4.2.
-  - [ ] Testing Node applications
-  - [ ] Exercises 4.3.-4.7.
-- [ ] b: Testing the backend
-  - [ ] Test environment
-  - [ ] supertest
-  - [ ] Initializing the database before tests
-  - [ ] Running tests one by one
-  - [ ] async/await
-  - [ ] async/await in the backend
-  - [ ] More tests and refactoring the backend
-  - [ ] Error handling and async/await
-  - [ ] Eliminating the try-catch
-  - [ ] Optimizing the beforeEach function
-  - [ ] A true full stack developer's oath
-  - [ ] Exercises 4.8.-4.12.
-  - [ ] Refactoring tests
-  - [ ] Exercises 4.13.-4.14.
-- [ ] c: User administration
-  - [ ] References across collections
-  - [ ] Mongoose schema for users
-  - [ ] Creating users
-  - [ ] Creating a new note
-  - [ ] Populate
-- [ ] d: Token authentication
-  - [ ] Problems of Token-based authentication
-  - [ ] End notes
-  - [ ] Exercises 4.15.-4.23.
-- [ ] e: Legacy: Testing with Jest
-  - [ ] Testing Node applications
-  - [ ] Exercises 4.3.-4.7.
-  - [ ] Test environment
-  - [ ] supertest
-  - [ ] Initializing the database before tests
-  - [ ] Running tests one by one
-  - [ ] async/await
-  - [ ] async/await in the backend
-  - [ ] More tests and refactoring the backend
-  - [ ] Error handling and async/await
-  - [ ] Eliminating the try-catch
-  - [ ] Optimizing the beforeEach function
-  - [ ] A true full stack developer's oath
-  - [ ] Exercises 4.8.-4.12.
-  - [ ] Refactoring tests
-  - [ ] Exercises 4.13.-4.14.
+- [ ] a: Structure of backend application, introduction to testing [🔗](https://fullstackopen.com/en/part4/structure_of_backend_application_introduction_to_testing)
+  - [ ] Project structure [🔗](https://fullstackopen.com/en/part4/structure_of_backend_application_introduction_to_testing#project-structure)
+  - [ ] Note on exports [🔗](https://fullstackopen.com/en/part4/structure_of_backend_application_introduction_to_testing#note-on-exports)
+  - [ ] Exercises 4.1.-4.2. [🔗](https://fullstackopen.com/en/part4/structure_of_backend_application_introduction_to_testing#exercises-4-1-4-2)
+  - [ ] Testing Node applications [🔗](https://fullstackopen.com/en/part4/structure_of_backend_application_introduction_to_testing#testing-node-applications)
+  - [ ] Exercises 4.3.-4.7. [🔗](https://fullstackopen.com/en/part4/structure_of_backend_application_introduction_to_testing#exercises-4-3-4-7)
+- [ ] b: Testing the backend [🔗](https://fullstackopen.com/en/part4/testing_the_backend)
+  - [ ] Test environment [🔗](https://fullstackopen.com/en/part4/testing_the_backend#test-environment)
+  - [ ] supertest [🔗](https://fullstackopen.com/en/part4/testing_the_backend#supertest)
+  - [ ] Initializing the database before tests [🔗](https://fullstackopen.com/en/part4/testing_the_backend#initializing-the-database-before-tests)
+  - [ ] Running tests one by one [🔗](https://fullstackopen.com/en/part4/testing_the_backend#running-tests-one-by-one)
+  - [ ] async/await [🔗](https://fullstackopen.com/en/part4/testing_the_backend#async-await)
+  - [ ] async/await in the backend [🔗](https://fullstackopen.com/en/part4/testing_the_backend#async-await-in-the-backend)
+  - [ ] More tests and refactoring the backend [🔗](https://fullstackopen.com/en/part4/testing_the_backend#more-tests-and-refactoring-the-backend)
+  - [ ] Error handling and async/await [🔗](https://fullstackopen.com/en/part4/testing_the_backend#error-handling-and-async-await)
+  - [ ] Eliminating the try-catch [🔗](https://fullstackopen.com/en/part4/testing_the_backend#eliminating-the-try-catch)
+  - [ ] Optimizing the beforeEach function [🔗](https://fullstackopen.com/en/part4/testing_the_backend#optimizing-the-before-each-function)
+  - [ ] A true full stack developer's oath [🔗](https://fullstackopen.com/en/part4/testing_the_backend#a-true-full-stack-developers-oath)
+  - [ ] Exercises 4.8.-4.12. [🔗](https://fullstackopen.com/en/part4/testing_the_backend#exercises-4-8-4-12)
+  - [ ] Refactoring tests [🔗](https://fullstackopen.com/en/part4/testing_the_backend#refactoring-tests)
+  - [ ] Exercises 4.13.-4.14. [🔗](https://fullstackopen.com/en/part4/testing_the_backend#exercises-4-13-4-14)
+- [ ] c: User administration [🔗](https://fullstackopen.com/en/part4/user_administration)
+  - [ ] References across collections [🔗](https://fullstackopen.com/en/part4/user_administration#references-across-collections)
+  - [ ] Mongoose schema for users [🔗](https://fullstackopen.com/en/part4/user_administration#mongoose-schema-for-users)
+  - [ ] Creating users [🔗](https://fullstackopen.com/en/part4/user_administration#creating-users)
+  - [ ] Creating a new note [🔗](https://fullstackopen.com/en/part4/user_administration#creating-a-new-note)
+  - [ ] Populate [🔗](https://fullstackopen.com/en/part4/user_administration#populate)
+- [ ] d: Token authentication [🔗](https://fullstackopen.com/en/part4/token_authentication)
+  - [ ] Problems of Token-based authentication [🔗](https://fullstackopen.com/en/part4/token_authentication#limiting-creating-new-notes-to-logged-in-users)
+  - [ ] End notes [🔗](https://fullstackopen.com/en/part4/token_authentication#end-notes)
+  - [ ] Exercises 4.15.-4.23. [🔗](https://fullstackopen.com/en/part4/token_authentication#exercises-4-15-4-23)
+- [ ] e: Legacy: Testing with Jest [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest)
+  - [ ] Testing Node applications [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#testing-node-applications)
+  - [ ] Exercises 4.3.-4.7. [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#exercises-4-3-4-7)
+  - [ ] Test environment [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#test-environment)
+  - [ ] supertest [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#supertest)
+  - [ ] Initializing the database before tests [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#initializing-the-database-before-tests)
+  - [ ] Running tests one by one [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#running-tests-one-by-one)
+  - [ ] async/await [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#async-await)
+  - [ ] async/await in the backend [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#async-await-in-the-backend)
+  - [ ] More tests and refactoring the backend [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#more-tests-and-refactoring-the-backend)
+  - [ ] Error handling and async/await [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#error-handling-and-async-await)
+  - [ ] Eliminating the try-catch [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#eliminating-the-try-catch)
+  - [ ] Optimizing the beforeEach function [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#optimizing-the-before-each-function)
+  - [ ] A true full stack developer's oath [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#a-true-full-stack-developers-oath)
+  - [ ] Exercises 4.8.-4.12. [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#exercises-4-8-4-12)
+  - [ ] Refactoring tests [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#refactoring-tests)
+  - [ ] Exercises 4.13.-4.14. [🔗](https://fullstackopen.com/en/part4/legacy_testing_with_jest#exercises-4-13-4-14)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 5: Testing React apps</span></summary> 
 
-- [ ] a: Login in frontend
-  - [ ] Handling login
-  - [ ] Creating new notes
-  - [ ] Saving the token to the browser's local storage
-  - [ ] Exercises 5.1.-5.4.
-  - [ ] A note on using local storage
-- [ ] b: props.children and proptypes
-  - [ ] Displaying the login form only when appropriate
-  - [ ] The components children, aka. props.children
-  - [ ] State of the forms
-  - [ ] References to components with ref
-  - [ ] One point about components
-  - [ ] The updated full stack developer's oath
-  - [ ] Exercises 5.5.-5.11.
-  - [ ] PropTypes
-  - [ ] ESlint
-  - [ ] Exercise 5.12.
-- [ ] c: Testing React apps
-  - [ ] Rendering the component for tests
-  - [ ] Test file location
-  - [ ] Searching for content in a component
-  - [ ] Debugging tests
-  - [ ] Clicking buttons in tests
-  - [ ] Tests for the Togglable component
-  - [ ] Testing the forms
-  - [ ] About finding the elements
-  - [ ] Test coverage
-  - [ ] Exercises 5.13.-5.16.
-  - [ ] Frontend integration tests
-  - [ ] Snapshot testing
-- [ ] d: End to end testing: Playwright
-  - [ ] Playwright
-  - [ ] Initializing tests
-  - [ ] Testing our own code
-  - [ ] Writing on the form
-  - [ ] Testing note creation
-  - [ ] Controlling the state of the database
-  - [ ] Test for failed login
-  - [ ] Running tests one by one
-  - [ ] Helper functions for tests
-  - [ ] Note importance change revisited
-  - [ ] Test development and debugging
-  - [ ] Exercises 5.17.-5.23.
-- [ ] e: End to end testing: Cypress
-  - [ ] Cypress
-  - [ ] Writing to a form
-  - [ ] Testing new note form
-  - [ ] Controlling the state of the database
-  - [ ] Failed login test
-  - [ ] Bypassing the UI
-  - [ ] Changing the importance of a note
-  - [ ] Running and debugging the tests
-  - [ ] Exercises 5.17.-5.23.
+- [ ] a: Login in frontend [🔗](https://fullstackopen.com/en/part5/login_in_frontend)
+  - [ ] Handling login [🔗](https://fullstackopen.com/en/part5/login_in_frontend#handling-login)
+  - [ ] Creating new notes [🔗](https://fullstackopen.com/en/part5/login_in_frontend#handling-login)
+  - [ ] Saving the token to the browser's local storage [🔗](https://fullstackopen.com/en/part5/login_in_frontend#saving-the-token-to-the-browsers-local-storage)
+  - [ ] Exercises 5.1.-5.4. [🔗](https://fullstackopen.com/en/part5/login_in_frontend#exercises-5-1-5-4)
+  - [ ] A note on using local storage [🔗](https://fullstackopen.com/en/part5/login_in_frontend#a-note-on-using-local-storage)
+- [ ] b: props.children and proptypes [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes)
+  - [ ] Displaying the login form only when appropriate [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes#displaying-the-login-form-only-when-appropriate)
+  - [ ] The components children, aka. props.children [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes#the-components-children-aka-props-children)
+  - [ ] State of the forms [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes#state-of-the-forms)
+  - [ ] References to components with ref [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes#references-to-components-with-ref)
+  - [ ] One point about components [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes#one-point-about-components)
+  - [ ] The updated full stack developer's oath [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes#the-updated-full-stack-developers-oath)
+  - [ ] Exercises 5.5.-5.11. [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes#exercises-5-5-5-11)
+  - [ ] PropTypes [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes#prop-types)
+  - [ ] ESlint [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes#e-slint)
+  - [ ] Exercise 5.12. [🔗](https://fullstackopen.com/en/part5/props_children_and_proptypes#exercise-5-12)
+- [ ] c: Testing React apps [🔗](https://fullstackopen.com/en/part5/testing_react_apps)
+  - [ ] Rendering the component for tests [🔗](https://fullstackopen.com/en/part5/testing_react_apps#rendering-the-component-for-tests)
+  - [ ] Test file location [🔗](https://fullstackopen.com/en/part5/testing_react_apps#test-file-location)
+  - [ ] Searching for content in a component [🔗](https://fullstackopen.com/en/part5/testing_react_apps#searching-for-content-in-a-component)
+  - [ ] Debugging tests [🔗](https://fullstackopen.com/en/part5/testing_react_apps#debugging-tests)
+  - [ ] Clicking buttons in tests [🔗](https://fullstackopen.com/en/part5/testing_react_apps#clicking-buttons-in-tests)
+  - [ ] Tests for the Togglable component [🔗](https://fullstackopen.com/en/part5/testing_react_apps#tests-for-the-togglable-component)
+  - [ ] Testing the forms [🔗](https://fullstackopen.com/en/part5/testing_react_apps#testing-the-forms)
+  - [ ] About finding the elements [🔗](https://fullstackopen.com/en/part5/testing_react_apps#about-finding-the-elements)
+  - [ ] Test coverage [🔗](https://fullstackopen.com/en/part5/testing_react_apps#test-coverage)
+  - [ ] Exercises 5.13.-5.16. [🔗](https://fullstackopen.com/en/part5/testing_react_apps#exercises-5-13-5-16)
+  - [ ] Frontend integration tests [🔗](https://fullstackopen.com/en/part5/testing_react_apps#frontend-integration-tests)
+  - [ ] Snapshot testing [🔗](https://fullstackopen.com/en/part5/testing_react_apps#snapshot-testing)
+- [ ] d: End to end testing: Playwright [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright)
+  - [ ] Playwright [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#playwright)
+  - [ ] Initializing tests [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#initializing-tests)
+  - [ ] Testing our own code [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#testing-our-own-code)
+  - [ ] Writing on the form [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#writing-on-the-form)
+  - [ ] Testing note creation [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#testing-note-creation)
+  - [ ] Controlling the state of the database [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#controlling-the-state-of-the-database)
+  - [ ] Test for failed login [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#test-for-failed-login)
+  - [ ] Running tests one by one [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#running-tests-one-by-one)
+  - [ ] Helper functions for tests [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#helper-functions-for-tests)
+  - [ ] Note importance change revisited [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#note-importance-change-revisited)
+  - [ ] Test development and debugging [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#test-development-and-debugging)
+  - [ ] Exercises 5.17.-5.23. [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_playwright#exercises-5-17-5-23)
+- [ ] e: End to end testing: Cypress [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_cypress)
+  - [ ] Cypress [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_cypress#cypress)
+  - [ ] Writing to a form [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_cypress#writing-to-a-form)
+  - [ ] Testing new note form [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_cypress#testing-new-note-form)
+  - [ ] Controlling the state of the database [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_cypress#controlling-the-state-of-the-database)
+  - [ ] Failed login test [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_cypress#failed-login-test)
+  - [ ] Bypassing the UI [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_cypress#bypassing-the-ui)
+  - [ ] Changing the importance of a note [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_cypress#changing-the-importance-of-a-note)
+  - [ ] Running and debugging the tests [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_cypress#running-and-debugging-the-tests)
+  - [ ] Exercises 5.17.-5.23. [🔗](https://fullstackopen.com/en/part5/end_to_end_testing_cypress#exercises-5-17-5-23)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 6: Advanced state management</span></summary> 
 
-- [ ] a: Flux-architecture and Redux
-  - [ ] Flux-architecture
-  - [ ] Redux
-  - [ ] A note about the use of createStore
-  - [ ] Redux-notes
-  - [ ] Pure functions, immutable
-  - [ ] Array spread syntax
-  - [ ] Exercises 6.1.-6.2.
-  - [ ] Uncontrolled form
-  - [ ] Action creators
-  - [ ] Forwarding Redux Store to various components
-  - [ ] More components
-  - [ ] Exercises 6.3.-6.8.
-- [ ] b: Many reducers
-  - [ ] Store with complex state
-  - [ ] Combined reducers
-  - [ ] Finishing the filters
-  - [ ] Exercise 6.9
-  - [ ] Redux Toolkit
-  - [ ] Redux Toolkit and console.log
-  - [ ] Redux DevTools
-  - [ ] Exercises 6.10.-6.13.
-- [ ] c: Communicating with server in a Redux application
-  - [ ] Getting data from the backend
-  - [ ] Sending data to the backend
-  - [ ] Exercises 6.14.-6.15.
-  - [ ] Asynchronous actions and Redux Thunk
-  - [ ] Exercises 6.16.-6.19.
-- [ ] d: React Query, useReducer and the context
-  - [ ] Managing data on the server with the React Query library
-  - [ ] Synchronizing data to the server using React Query
-  - [ ] Optimizing the performance
-  - [ ] Exercises 6.20.-6.22.
-  - [ ] useReducer
-  - [ ] Using context for passing the state to components
-  - [ ] Defining the counter context in a separate file
-  - [ ] Exercises 6.23.-6.24.
-  - [ ] Which state management solution to choose?
+- [ ] a: Flux-architecture and Redux [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux)
+  - [ ] Flux-architecture [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#flux-architecture)
+  - [ ] Redux [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#redux)
+  - [ ] A note about the use of createStore [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#a-note-about-the-use-of-create-store)
+  - [ ] Redux-notes [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#redux-notes)
+  - [ ] Pure functions, immutable [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#pure-functions-immutable)
+  - [ ] Array spread syntax [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#array-spread-syntax)
+  - [ ] Exercises 6.1.-6.2. [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#exercises-6-1-6-2)
+  - [ ] Uncontrolled form [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#uncontrolled-form)
+  - [ ] Action creators [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#action-creators)
+  - [ ] Forwarding Redux Store to various components [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#forwarding-redux-store-to-various-components)
+  - [ ] More components [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#more-components)
+  - [ ] Exercises 6.3.-6.8. [🔗](https://fullstackopen.com/en/part6/flux_architecture_and_redux#exercises-6-3-6-8)
+- [ ] b: Many reducers [🔗](https://fullstackopen.com/en/part6/many_reducers)
+  - [ ] Store with complex state [🔗](https://fullstackopen.com/en/part6/many_reducers#store-with-complex-state)
+  - [ ] Combined reducers [🔗](https://fullstackopen.com/en/part6/many_reducers#combined-reducers)
+  - [ ] Finishing the filters [🔗](https://fullstackopen.com/en/part6/many_reducers#finishing-the-filters)
+  - [ ] Exercise 6.9 [🔗](https://fullstackopen.com/en/part6/many_reducers#exercise-6-9)
+  - [ ] Redux Toolkit [🔗](https://fullstackopen.com/en/part6/many_reducers#redux-toolkit)
+  - [ ] Redux Toolkit and console.log [🔗](https://fullstackopen.com/en/part6/many_reducers#redux-toolkit-and-console-log)
+  - [ ] Redux DevTools [🔗](https://fullstackopen.com/en/part6/many_reducers#redux-dev-tools)
+  - [ ] Exercises 6.10.-6.13. [🔗](https://fullstackopen.com/en/part6/many_reducers#exercises-6-10-6-13)
+- [ ] c: Communicating with server in a Redux application [🔗](https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application)
+  - [ ] Getting data from the backend [🔗](https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application#getting-data-from-the-backend)
+  - [ ] Sending data to the backend [🔗](https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application#sending-data-to-the-backend)
+  - [ ] Exercises 6.14.-6.15. [🔗](https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application#exercises-6-14-6-15)
+  - [ ] Asynchronous actions and Redux Thunk [🔗](https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application#asynchronous-actions-and-redux-thunk)
+  - [ ] Exercises 6.16.-6.19. [🔗](https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application#exercises-6-16-6-19)
+- [ ] d: React Query, useReducer and the context [🔗](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context)
+  - [ ] Managing data on the server with the React Query library [🔗](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#managing-data-on-the-server-with-the-react-query-library)
+  - [ ] Synchronizing data to the server using React Query [🔗](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#synchronizing-data-to-the-server-using-react-query)
+  - [ ] Optimizing the performance [🔗](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#optimizing-the-performance)
+  - [ ] Exercises 6.20.-6.22. [🔗](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#exercises-6-20-6-22)
+  - [ ] useReducer [🔗](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#use-reducer)
+  - [ ] Using context for passing the state to components [🔗](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#using-context-for-passing-the-state-to-components)
+  - [ ] Defining the counter context in a separate file [🔗](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#defining-the-counter-context-in-a-separate-file)
+  - [ ] Exercises 6.23.-6.24. [🔗](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#exercises-6-23-6-24)
+  - [ ] Which state management solution to choose? [🔗](https://fullstackopen.com/en/part6/react_query_use_reducer_and_the_context#which-state-management-solution-to-choose)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 7: React router, custom hooks, styling app with CSS and webpack</span></summary> 
 
-- [ ] a: React Router
-  - [ ] Application navigation structure
-  - [ ] React Router
-  - [ ] Parameterized route
-  - [ ] useNavigate
-  - [ ] Redirect
-  - [ ] Parameterized route revisited
-  - [ ] Exercises 7.1.-7.3.
-- [ ] b Custom hooks
-  - [ ] Hooks
-  - [ ] Custom hooks
-  - [ ] Spread attributes
-  - [ ] More about hooks
-  - [ ] Exercises 7.4.-7.8.
-- [ ] c: More about styles
-  - [ ] Ready-made UI libraries
-  - [ ] React Bootstrap
-  - [ ] Material UI
-  - [ ] Closing thoughts
-  - [ ] Other UI frameworks
-  - [ ] Styled components
-  - [ ] Exercises
-- [ ] d: Webpack
-  - [ ] Bundling
-  - [ ] Configuration file
-  - [ ] Bundling React
-  - [ ] Loaders
-  - [ ] Transpilers
-  - [ ] CSS
-  - [ ] Webpack-dev-server
-  - [ ] Source maps
-  - [ ] Minifying the code
-  - [ ] Development and production configuration
-  - [ ] Polyfill
-- [ ] e: Class components, Miscellaneous
-  - [ ] Class Components
-  - [ ] Organization of code in React application
-  - [ ] Frontend and backend in the same repository
-  - [ ] Changes on the server
-  - [ ] Virtual DOM
-  - [ ] On the role of React in applications
-  - [ ] React/node-application security
-  - [ ] Current trends
-  - [ ] Useful libraries and interesting links
-- [ ] f: Exercises: extending the bloglist
-  - [ ] Exercises 7.9.-7.21.
-  - [ ] State Management: Redux
-  - [ ] State Management: React Query and Context
-  - [ ] Views
+- [ ] a: React Router [🔗](https://fullstackopen.com/en/part7/react_router)
+  - [ ] Application navigation structure [🔗](https://fullstackopen.com/en/part7/react_router#application-navigation-structure)
+  - [ ] React Router [🔗](https://fullstackopen.com/en/part7/react_router#react-router)
+  - [ ] Parameterized route [🔗](https://fullstackopen.com/en/part7/react_router#parameterized-route)
+  - [ ] useNavigate [🔗](https://fullstackopen.com/en/part7/react_router#use-navigate)
+  - [ ] Redirect [🔗](https://fullstackopen.com/en/part7/react_router#redirect)
+  - [ ] Parameterized route revisited [🔗](https://fullstackopen.com/en/part7/react_router#parameterized-route-revisited)
+  - [ ] Exercises 7.1.-7.3. [🔗](https://fullstackopen.com/en/part7/react_router#exercises-7-1-7-3)
+- [ ] b Custom hooks [🔗](https://fullstackopen.com/en/part7/custom_hooks)
+  - [ ] Hooks [🔗](https://fullstackopen.com/en/part7/custom_hooks#hooks)
+  - [ ] Custom hooks [🔗](https://fullstackopen.com/en/part7/custom_hooks#custom-hooks)
+  - [ ] Spread attributes [🔗](https://fullstackopen.com/en/part7/custom_hooks#spread-attributes)
+  - [ ] More about hooks [🔗](https://fullstackopen.com/en/part7/custom_hooks#more-about-hooks)
+  - [ ] Exercises 7.4.-7.8. [🔗](https://fullstackopen.com/en/part7/custom_hooks#exercises-7-4-7-8)
+- [ ] c: More about styles [🔗](https://fullstackopen.com/en/part7/more_about_styles)
+  - [ ] Ready-made UI libraries [🔗](https://fullstackopen.com/en/part7/more_about_styles#ready-made-ui-libraries)
+  - [ ] React Bootstrap [🔗](https://fullstackopen.com/en/part7/more_about_styles#react-bootstrap)
+  - [ ] Material UI [🔗](https://fullstackopen.com/en/part7/more_about_styles#material-ui)
+  - [ ] Closing thoughts [🔗](https://fullstackopen.com/en/part7/more_about_styles#closing-thoughts)
+  - [ ] Other UI frameworks [🔗](https://fullstackopen.com/en/part7/more_about_styles#other-ui-frameworks)
+  - [ ] Styled components [🔗](https://fullstackopen.com/en/part7/more_about_styles#styled-components)
+  - [ ] Exercises [🔗](https://fullstackopen.com/en/part7/more_about_styles#exercises)
+- [ ] d: Webpack [🔗](https://fullstackopen.com/en/part7/webpack)
+  - [ ] Bundling [🔗](https://fullstackopen.com/en/part7/webpack#bundling)
+  - [ ] Configuration file [🔗](https://fullstackopen.com/en/part7/webpack#configuration-file)
+  - [ ] Bundling React [🔗](https://fullstackopen.com/en/part7/webpack#bundling-react)
+  - [ ] Loaders [🔗](https://fullstackopen.com/en/part7/webpack#loaders)
+  - [ ] Transpilers [🔗](https://fullstackopen.com/en/part7/webpack#transpilers)
+  - [ ] CSS [🔗](https://fullstackopen.com/en/part7/webpack#css)
+  - [ ] Webpack-dev-server [🔗](https://fullstackopen.com/en/part7/webpack#webpack-dev-server)
+  - [ ] Source maps [🔗](https://fullstackopen.com/en/part7/webpack#source-maps)
+  - [ ] Minifying the code [🔗](https://fullstackopen.com/en/part7/webpack#minifying-the-code)
+  - [ ] Development and production configuration [🔗](https://fullstackopen.com/en/part7/webpack#development-and-production-configuration)
+  - [ ] Polyfill [🔗](https://fullstackopen.com/en/part7/webpack#polyfill)
+- [ ] e: Class components, Miscellaneous [🔗](https://fullstackopen.com/en/part7/class_components_miscellaneous)
+  - [ ] Class Components [🔗](https://fullstackopen.com/en/part7/class_components_miscellaneous#class-components)
+  - [ ] Organization of code in React application [🔗](https://fullstackopen.com/en/part7/class_components_miscellaneous#organization-of-code-in-react-application)
+  - [ ] Frontend and backend in the same repository [🔗](https://fullstackopen.com/en/part7/class_components_miscellaneous#frontend-and-backend-in-the-same-repository)
+  - [ ] Changes on the server [🔗](https://fullstackopen.com/en/part7/class_components_miscellaneous#changes-on-the-server)
+  - [ ] Virtual DOM [🔗](https://fullstackopen.com/en/part7/class_components_miscellaneous#virtual-dom)
+  - [ ] On the role of React in applications [🔗](https://fullstackopen.com/en/part7/class_components_miscellaneous#on-the-role-of-react-in-applications)
+  - [ ] React/node-application security [🔗](https://fullstackopen.com/en/part7/class_components_miscellaneous#react-node-application-security)
+  - [ ] Current trends [🔗](https://fullstackopen.com/en/part7/class_components_miscellaneous#current-trends)
+  - [ ] Useful libraries and interesting links [🔗](https://fullstackopen.com/en/part7/class_components_miscellaneous#useful-libraries-and-interesting-links)
+- [ ] f: Exercises: extending the bloglist [🔗](https://fullstackopen.com/en/part7/exercises_extending_the_bloglist)
+  - [ ] Exercises 7.9.-7.21. [🔗](https://fullstackopen.com/en/part7/exercises_extending_the_bloglist#exercises-7-9-7-21)
+  - [ ] State Management: Redux [🔗](https://fullstackopen.com/en/part7/exercises_extending_the_bloglist#state-management-redux)
+  - [ ] State Management: React Query and Context [🔗](https://fullstackopen.com/en/part7/exercises_extending_the_bloglist#state-management-react-query-and-context)
+  - [ ] Views [🔗](https://fullstackopen.com/en/part7/exercises_extending_the_bloglist#views)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 8: GraphQL</span></summary> 
 
-- [ ] a: GraphQL-server
-  - [ ] Schemas and queries
-  - [ ] Apollo Server
-  - [ ] Apollo Studio Explorer
-  - [ ] Parameters of a resolver
-  - [ ] The default resolver
-  - [ ] Object within an object
-  - [ ] Mutations
-  - [ ] Error handling
-  - [ ] Enum
-  - [ ] Changing a phone number
-  - [ ] More on queries
-  - [ ] Exercises 8.1.-8.7
-- [ ] b: React and GraphQL
-  - [ ] Apollo client
-  - [ ] Making queries
-  - [ ] Named queries and variables
-  - [ ] Cache
-  - [ ] Doing mutations
-  - [ ] Updating the cache
-  - [ ] Handling mutation errors
-  - [ ] Updating a phone number
-  - [ ] Apollo Client and the applications state
-  - [ ] Exercises 8.8.-8.12
-- [ ] c: Database and user administration
-  - [ ] Mongoose and Apollo
-  - [ ] Validation
-  - [ ] User and log in
-  - [ ] Friends list
-  - [ ] Exercises 8.13.-8.16
-- [ ] d: Login and updating the cache
-  - [ ] User login
-  - [ ] Adding a token to a header
-  - [ ] Updating cache, revisited
-  - [ ] Exercises 8.17.-8.22
-- [ ] e: Fragments and subscriptions
-  - [ ] Fragments
-  - [ ] Subscriptions
-  - [ ] Refactoring the backend
-  - [ ] Subscriptions on the server
-  - [ ] Subscriptions on the client
-  - [ ] n+1 problem
-  - [ ] Epilogue
-  - [ ] Exercises 8.23.-8.26
-  - [ ] Submitting exercises and getting the credits
+- [ ] a: GraphQL-server [🔗](https://fullstackopen.com/en/part8/graph_ql_server)
+  - [ ] Schemas and queries [🔗](https://fullstackopen.com/en/part8/graph_ql_server#schemas-and-queries)
+  - [ ] Apollo Server [🔗](https://fullstackopen.com/en/part8/graph_ql_server#schemas-and-queries)
+  - [ ] Apollo Studio Explorer [🔗](https://fullstackopen.com/en/part8/graph_ql_server#apollo-studio-explorer)
+  - [ ] Parameters of a resolver [🔗](https://fullstackopen.com/en/part8/graph_ql_server#parameters-of-a-resolver)
+  - [ ] The default resolver [🔗](https://fullstackopen.com/en/part8/graph_ql_server#the-default-resolver)
+  - [ ] Object within an object [🔗](https://fullstackopen.com/en/part8/graph_ql_server#object-within-an-object)
+  - [ ] Mutations [🔗](https://fullstackopen.com/en/part8/graph_ql_server#mutations)
+  - [ ] Error handling [🔗](https://fullstackopen.com/en/part8/graph_ql_server#error-handling)
+  - [ ] Enum [🔗](https://fullstackopen.com/en/part8/graph_ql_server#enum)
+  - [ ] Changing a phone number [🔗](https://fullstackopen.com/en/part8/graph_ql_server#changing-a-phone-number)
+  - [ ] More on queries [🔗](https://fullstackopen.com/en/part8/graph_ql_server#more-on-queries)
+  - [ ] Exercises 8.1.-8.7 [🔗](https://fullstackopen.com/en/part8/graph_ql_server#exercises-8-1-8-7)
+- [ ] b: React and GraphQL [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql)
+  - [ ] Apollo client [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql#apollo-client)
+  - [ ] Making queries [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql#making-queries)
+  - [ ] Named queries and variables [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql#named-queries-and-variables)
+  - [ ] Cache [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql#cache)
+  - [ ] Doing mutations [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql#doing-mutations)
+  - [ ] Updating the cache [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql#updating-the-cache)
+  - [ ] Handling mutation errors [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql#handling-mutation-errors)
+  - [ ] Updating a phone number [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql#updating-a-phone-number)
+  - [ ] Apollo Client and the applications state [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql#apollo-client-and-the-applications-state)
+  - [ ] Exercises 8.8.-8.12 [🔗](https://fullstackopen.com/en/part8/react_and_graph_ql#exercises-8-8-8-12)
+- [ ] c: Database and user administration [🔗](https://fullstackopen.com/en/part8/database_and_user_administration)
+  - [ ] Mongoose and Apollo [🔗](https://fullstackopen.com/en/part8/database_and_user_administration#mongoose-and-apollo)
+  - [ ] Validation [🔗](https://fullstackopen.com/en/part8/database_and_user_administration#validation)
+  - [ ] User and log in [🔗](https://fullstackopen.com/en/part8/database_and_user_administration#user-and-log-in)
+  - [ ] Friends list [🔗](https://fullstackopen.com/en/part8/database_and_user_administration#friends-list)
+  - [ ] Exercises 8.13.-8.16 [🔗](https://fullstackopen.com/en/part8/database_and_user_administration#exercises-8-13-8-16)
+- [ ] d: Login and updating the cache [🔗](https://fullstackopen.com/en/part8/login_and_updating_the_cache)
+  - [ ] User login [🔗](https://fullstackopen.com/en/part8/login_and_updating_the_cache#user-login)
+  - [ ] Adding a token to a header [🔗](https://fullstackopen.com/en/part8/login_and_updating_the_cache#adding-a-token-to-a-header)
+  - [ ] Updating cache, revisited [🔗](https://fullstackopen.com/en/part8/login_and_updating_the_cache#updating-cache-revisited)
+  - [ ] Exercises 8.17.-8.22 [🔗](https://fullstackopen.com/en/part8/login_and_updating_the_cache#exercises-8-17-8-22)
+- [ ] e: Fragments and subscriptions [🔗](https://fullstackopen.com/en/part8/fragments_and_subscriptions)
+  - [ ] Fragments [🔗](https://fullstackopen.com/en/part8/fragments_and_subscriptions#fragments)
+  - [ ] Subscriptions [🔗](https://fullstackopen.com/en/part8/fragments_and_subscriptions#subscriptions)
+  - [ ] Refactoring the backend [🔗](https://fullstackopen.com/en/part8/fragments_and_subscriptions#refactoring-the-backend)
+  - [ ] Subscriptions on the server [🔗](https://fullstackopen.com/en/part8/fragments_and_subscriptions#subscriptions-on-the-server)
+  - [ ] Subscriptions on the client [🔗](https://fullstackopen.com/en/part8/fragments_and_subscriptions#subscriptions-on-the-client)
+  - [ ] n+1 problem [🔗](https://fullstackopen.com/en/part8/fragments_and_subscriptions#n-1-problem)
+  - [ ] Epilogue [🔗](https://fullstackopen.com/en/part8/fragments_and_subscriptions#epilogue)
+  - [ ] Exercises 8.23.-8.26 [🔗](https://fullstackopen.com/en/part8/fragments_and_subscriptions#exercises-8-23-8-26)
+  - [ ] Submitting exercises and getting the credits [🔗](https://fullstackopen.com/en/part8/fragments_and_subscriptions#submitting-exercises-and-getting-the-credits)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 9: TypeScript</span></summary> 
 
-- [ ] a: Background and introduction
-  - [ ] Main principle
-  - [ ] TypeScript key language features
-  - [ ] Why should one use TypeScript?
-  - [ ] What does TypeScript not fix?
-- [ ] b: First steps with TypeScript
-  - [ ] Setting things up
-  - [ ] Creating your first own types
-  - [ ] Type narrowing
-  - [ ] Accessing command line arguments
-  - [ ] @types/{npm_package}
-  - [ ] Improving the project
-  - [ ] The alternative array syntax
-  - [ ] Exercises 9.1-9.3
-  - [ ] More about tsconfig
-  - [ ] Adding Express to the mix
-  - [ ] Exercises 9.4-9.5
-  - [ ] The horrors of any
-  - [ ] Type assertion
-  - [ ] Exercises 9.6-9.7
-- [ ] c: Typing an Express app
-  - [ ] Setting up the project
-  - [ ] Let there be code
-  - [ ] Exercises 9.8-9.9
-  - [ ] Implementing the functionality
-  - [ ] Node and JSON modules
-  - [ ] Utility Types
-  - [ ] Typing the request and response
-  - [ ] Exercises 9.10-9.11
-  - [ ] Preventing an accidental undefined result
-  - [ ] Adding a new diary
-  - [ ] Validating requests
-  - [ ] Type guards
-  - [ ] Enum
-  - [ ] Exercises 9.12-9.13
-  - [ ] Using schema validation libraries
-  - [ ] Parsing request body in middleware
-  - [ ] Exercises 9.14
-- [ ] d: React with types
-  - [ ] Vite with TypeScript
-  - [ ] React components with TypeScript
-  - [ ] Exercise 9.15
-  - [ ] Deeper type usage
-  - [ ] More type narrowing
-  - [ ] Exercise 9.16
-  - [ ] React app with state
-  - [ ] Communicating with the server
-  - [ ] A note about defining object types
-  - [ ] Exercises 9.17-9.20
-- [ ] e: Grande finale: Patientor
-  - [ ] Working with an existing codebase
-  - [ ] Patientor frontend
-  - [ ] Exercises 9.21-9.22
-  - [ ] Full entries
-  - [ ] Omit with unions
-  - [ ] Exercises 9.23-9.30
-  - [ ] Submitting exercises and getting the credits
+- [ ] a: Background and introduction [🔗](https://fullstackopen.com/en/part9/background_and_introduction)
+  - [ ] Main principle [🔗](https://fullstackopen.com/en/part9/background_and_introduction#main-principle)
+  - [ ] TypeScript key language features [🔗](https://fullstackopen.com/en/part9/background_and_introduction#type-script-key-language-features)
+  - [ ] Why should one use TypeScript? [🔗](https://fullstackopen.com/en/part9/background_and_introduction#why-should-one-use-type-script)
+  - [ ] What does TypeScript not fix? [🔗](https://fullstackopen.com/en/part9/background_and_introduction#what-does-type-script-not-fix)
+- [ ] b: First steps with TypeScript [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script)
+  - [ ] Setting things up [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#setting-things-up)
+  - [ ] Creating your first own types [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#creating-your-first-own-types)
+  - [ ] Type narrowing [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#type-narrowing)
+  - [ ] Accessing command line arguments [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#accessing-command-line-arguments)
+  - [ ] @types/{npm_package} [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#types-npm-package)
+  - [ ] Improving the project [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#improving-the-project)
+  - [ ] The alternative array syntax [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#the-alternative-array-syntax)
+  - [ ] Exercises 9.1-9.3 [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#exercises-9-1-9-3)
+  - [ ] More about tsconfig [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#more-about-tsconfig)
+  - [ ] Adding Express to the mix [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#more-about-tsconfig)
+  - [ ] Exercises 9.4-9.5 [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#exercises-9-4-9-5)
+  - [ ] The horrors of any [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#the-horrors-of-any)
+  - [ ] Type assertion [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#type-assertion)
+  - [ ] Exercises 9.6-9.7 [🔗](https://fullstackopen.com/en/part9/first_steps_with_type_script#exercises-9-6-9-7)
+- [ ] c: Typing an Express app [🔗](https://fullstackopen.com/en/part9/typing_an_express_app)
+  - [ ] Setting up the project [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#setting-up-the-project)
+  - [ ] Let there be code [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#let-there-be-code)
+  - [ ] Exercises 9.8-9.9 [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#exercises-9-8-9-9)
+  - [ ] Implementing the functionality [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#exercises-9-8-9-9)
+  - [ ] Node and JSON modules [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#node-and-json-modules)
+  - [ ] Utility Types [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#utility-types)
+  - [ ] Typing the request and response [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#typing-the-request-and-response)
+  - [ ] Exercises 9.10-9.11 [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#exercises-9-10-9-11)
+  - [ ] Preventing an accidental undefined result [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#preventing-an-accidental-undefined-result)
+  - [ ] Adding a new diary [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#adding-a-new-diary)
+  - [ ] Validating requests [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#validating-requests)
+  - [ ] Type guards [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#type-guards)
+  - [ ] Enum [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#enum)
+  - [ ] Exercises 9.12-9.13 [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#exercises-9-12-9-13)
+  - [ ] Using schema validation libraries [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#using-schema-validation-libraries)
+  - [ ] Parsing request body in middleware [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#parsing-request-body-in-middleware)
+  - [ ] Exercises 9.14 [🔗](https://fullstackopen.com/en/part9/typing_an_express_app#exercises-9-14)
+- [ ] d: React with types [🔗](https://fullstackopen.com/en/part9/react_with_types)
+  - [ ] Vite with TypeScript [🔗](https://fullstackopen.com/en/part9/react_with_types#vite-with-type-script)
+  - [ ] React components with TypeScript [🔗](https://fullstackopen.com/en/part9/react_with_types#vite-with-type-script)
+  - [ ] Exercise 9.15 [🔗](https://fullstackopen.com/en/part9/react_with_types#vite-with-type-script)
+  - [ ] Deeper type usage [🔗](https://fullstackopen.com/en/part9/react_with_types#deeper-type-usage)
+  - [ ] More type narrowing [🔗](https://fullstackopen.com/en/part9/react_with_types#more-type-narrowing)
+  - [ ] Exercise 9.16 [🔗](https://fullstackopen.com/en/part9/react_with_types#exercise-9-16)
+  - [ ] React app with state [🔗](https://fullstackopen.com/en/part9/react_with_types#react-app-with-state)
+  - [ ] Communicating with the server [🔗](https://fullstackopen.com/en/part9/react_with_types#communicating-with-the-server)
+  - [ ] A note about defining object types [🔗](https://fullstackopen.com/en/part9/react_with_types#a-note-about-defining-object-types)
+  - [ ] Exercises 9.17-9.20 [🔗](https://fullstackopen.com/en/part9/react_with_types#exercises-9-17-9-20)
+- [ ] e: Grande finale: Patientor [🔗](https://fullstackopen.com/en/part9/grande_finale_patientor)
+  - [ ] Working with an existing codebase [🔗](https://fullstackopen.com/en/part9/grande_finale_patientor#working-with-an-existing-codebase)
+  - [ ] Patientor frontend [🔗](https://fullstackopen.com/en/part9/grande_finale_patientor#patientor-frontend)
+  - [ ] Exercises 9.21-9.22 [🔗](https://fullstackopen.com/en/part9/grande_finale_patientor#exercises-9-21-9-22)
+  - [ ] Full entries [🔗](https://fullstackopen.com/en/part9/grande_finale_patientor#full-entries)
+  - [ ] Omit with unions [🔗](https://fullstackopen.com/en/part9/grande_finale_patientor#omit-with-unions)
+  - [ ] Exercises 9.23-9.30 [🔗](https://fullstackopen.com/en/part9/grande_finale_patientor#exercises-9-23-9-30)
+  - [ ] Submitting exercises and getting the credits [🔗](https://fullstackopen.com/en/part9/grande_finale_patientor#submitting-exercises-and-getting-the-credits)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 10: React Native</span></summary> 
 
-- [ ] a: Introduction to React Native
-  - [ ] About this part
-  - [ ] Submitting exercises and earning credits
-  - [ ] Initializing the application
-  - [ ] Setting up the development environment
-  - [ ] Exercise 10.1
-  - [ ] ESLint
-  - [ ] Exercise 10.2
-  - [ ] Debugging
-- [ ] b: React Native basics
-  - [ ] Core components
-  - [ ] Manually reloading the application
-  - [ ] Exercise 10.3
-  - [ ] Style
-  - [ ] Consistent user interface with theming
-  - [ ] Using flexbox for layout
-  - [ ] Exercises 10.4-10.5
-  - [ ] Routing
-  - [ ] Exercises 10.6-10.7
-  - [ ] Form state management
-  - [ ] Exercise 10.8
-  - [ ] Form validation
-  - [ ] Exercise 10.9
-  - [ ] Platform-specific code
-  - [ ] Exercise 10.10
-- [ ] c: Communicating with server
-  - [ ] HTTP requests
-  - [ ] GraphQL and Apollo client
-  - [ ] Organizing GraphQL related code
-  - [ ] Evolving the structure
-  - [ ] Exercise 10.11
-  - [ ] Environment variables
-  - [ ] Exercise 10.12
-  - [ ] Storing data in the user's device
-  - [ ] Exercises 10.13. - 10.14
-  - [ ] Enhancing Apollo Client's requests
-  - [ ] Using React Context for dependency injection
-  - [ ] Exercises 10.15. - 10.16
-- [ ] d: Testing and extending our application
-  - [ ] Testing React Native applications
-  - [ ] Organizing tests
-  - [ ] Testing components
-  - [ ] Handling dependencies in tests
-  - [ ] Exercises 10.17. - 10.18
-  - [ ] Extending our application
-  - [ ] Exercises 10.19. - 10.26
-  - [ ] Cursor-based pagination
-  - [ ] Infinite scrolling
-  - [ ] Exercise 10.27
-  - [ ] Additional resources
-  - [ ] Closing words
+- [ ] a: Introduction to React Native [🔗](https://fullstackopen.com/en/part10/introduction_to_react_native)
+  - [ ] About this part [🔗](https://fullstackopen.com/en/part10/introduction_to_react_native#about-this-part)
+  - [ ] Submitting exercises and earning credits [🔗](https://fullstackopen.com/en/part10/introduction_to_react_native#submitting-exercises-and-earning-credits)
+  - [ ] Initializing the application [🔗](https://fullstackopen.com/en/part10/introduction_to_react_native#initializing-the-application)
+  - [ ] Setting up the development environment [🔗](https://fullstackopen.com/en/part10/introduction_to_react_native#setting-up-the-development-environment)
+  - [ ] Exercise 10.1 [🔗](https://fullstackopen.com/en/part10/introduction_to_react_native#setting-up-the-development-environment)
+  - [ ] ESLint [🔗](https://fullstackopen.com/en/part10/introduction_to_react_native#es-lint)
+  - [ ] Exercise 10.2 [🔗](https://fullstackopen.com/en/part10/introduction_to_react_native#exercise-10-2)
+  - [ ] Debugging [🔗](https://fullstackopen.com/en/part10/introduction_to_react_native#debugging)
+- [ ] b: React Native basics [🔗](https://fullstackopen.com/en/part10/react_native_basics)
+  - [ ] Core components [🔗](https://fullstackopen.com/en/part10/react_native_basics#core-components)
+  - [ ] Manually reloading the application [🔗](https://fullstackopen.com/en/part10/react_native_basics#manually-reloading-the-application)
+  - [ ] Exercise 10.3 [🔗](https://fullstackopen.com/en/part10/react_native_basics#exercise-10-3)
+  - [ ] Style [🔗](https://fullstackopen.com/en/part10/react_native_basics#style)
+  - [ ] Consistent user interface with theming [🔗](https://fullstackopen.com/en/part10/react_native_basics#consistent-user-interface-with-theming)
+  - [ ] Using flexbox for layout [🔗](https://fullstackopen.com/en/part10/react_native_basics#using-flexbox-for-layout)
+  - [ ] Exercises 10.4-10.5 [🔗](https://fullstackopen.com/en/part10/react_native_basics#exercises-10-4-10-5)
+  - [ ] Routing [🔗](https://fullstackopen.com/en/part10/react_native_basics#routing)
+  - [ ] Exercises 10.6-10.7 [🔗](https://fullstackopen.com/en/part10/react_native_basics#exercises-10-6-10-7)
+  - [ ] Form state management [🔗](https://fullstackopen.com/en/part10/react_native_basics#form-state-management)
+  - [ ] Exercise 10.8 [🔗](https://fullstackopen.com/en/part10/react_native_basics#exercise-10-8)
+  - [ ] Form validation [🔗](https://fullstackopen.com/en/part10/react_native_basics#form-validation)
+  - [ ] Exercise 10.9 [🔗](https://fullstackopen.com/en/part10/react_native_basics#exercise-10-9)
+  - [ ] Platform-specific code [🔗](https://fullstackopen.com/en/part10/react_native_basics#platform-specific-code)
+  - [ ] Exercise 10.10 [🔗](https://fullstackopen.com/en/part10/react_native_basics#exercise-10-10)
+- [ ] c: Communicating with server [🔗](https://fullstackopen.com/en/part10/communicating_with_server)
+  - [ ] HTTP requests [🔗](https://fullstackopen.com/en/part10/communicating_with_server#http-requests)
+  - [ ] GraphQL and Apollo client [🔗](https://fullstackopen.com/en/part10/communicating_with_server#graph-ql-and-apollo-client)
+  - [ ] Organizing GraphQL related code [🔗](https://fullstackopen.com/en/part10/communicating_with_server#organizing-graph-ql-related-code)
+  - [ ] Evolving the structure [🔗](https://fullstackopen.com/en/part10/communicating_with_server#evolving-the-structure)
+  - [ ] Exercise 10.11 [🔗](https://fullstackopen.com/en/part10/communicating_with_server#exercise-10-11)
+  - [ ] Environment variables [🔗](https://fullstackopen.com/en/part10/communicating_with_server#environment-variables)
+  - [ ] Exercise 10.12 [🔗](https://fullstackopen.com/en/part10/communicating_with_server#exercise-10-12)
+  - [ ] Storing data in the user's device [🔗](https://fullstackopen.com/en/part10/communicating_with_server#storing-data-in-the-users-device)
+  - [ ] Exercises 10.13. - 10.14 [🔗](https://fullstackopen.com/en/part10/communicating_with_server#exercises-10-13-10-14)
+  - [ ] Enhancing Apollo Client's requests [🔗](https://fullstackopen.com/en/part10/communicating_with_server#enhancing-apollo-clients-requests)
+  - [ ] Using React Context for dependency injection [🔗](https://fullstackopen.com/en/part10/communicating_with_server#using-react-context-for-dependency-injection)
+  - [ ] Exercises 10.15. - 10.16 [🔗](https://fullstackopen.com/en/part10/communicating_with_server#exercises-10-15-10-16)
+- [ ] d: Testing and extending our application [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application)
+  - [ ] Testing React Native applications [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#testing-react-native-applications)
+  - [ ] Organizing tests [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#organizing-tests)
+  - [ ] Testing components [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#testing-components)
+  - [ ] Handling dependencies in tests [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#handling-dependencies-in-tests)
+  - [ ] Exercises 10.17. - 10.18 [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#exercises-10-17-10-18)
+  - [ ] Extending our application [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#extending-our-application)
+  - [ ] Exercises 10.19. - 10.26 [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#exercises-10-19-10-26)
+  - [ ] Cursor-based pagination [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#cursor-based-pagination)
+  - [ ] Infinite scrolling [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#infinite-scrolling)
+  - [ ] Exercise 10.27 [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#exercise-10-27)
+  - [ ] Additional resources [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#additional-resources)
+  - [ ] Closing words [🔗](https://fullstackopen.com/en/part10/testing_and_extending_our_application#closing-words)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 11: CI/CD</span></summary> 
 
-- [ ] a: Introduction to CI/CD
-  - [ ] Getting software to production
-  - [ ] Some useful terms
-  - [ ] What is CI?
-  - [ ] Packaging and Deployment as a part of CI
-  - [ ] Why is it important?
-  - [ ] Important principles
-  - [ ] Types of CI setup
-  - [ ] Exercise 11.1
-- [ ] b: Getting started with GitHub Actions
-  - [ ] Basic needs
-  - [ ] Exercise 11.2.
-  - [ ] Getting started with workflows
-  - [ ] Exercises 11.3-11.4.
-  - [ ] Setting up lint, test and build steps
-  - [ ] Exercises 11.5.-11.9.
-- [ ] c: Deployment
-  - [ ] Anything that can go wrong...
-  - [ ] What does a good deployment system do?
-  - [ ] Has the app been deployed?
-  - [ ] Exercises 11.10-11.12. (Fly.io)
-  - [ ] Exercises 11.10-11.12. (Render)
-- [ ] d: Keeping green
-  - [ ] Working with Pull Requests
-  - [ ] Exercises 11.13-11.14.
-  - [ ] Versioning
-  - [ ] Exercises 11.15-11.16.
-  - [ ] A note about using third-party actions
-  - [ ] Keep the main branch protected
-  - [ ] Exercise 11.17
-- [ ] e: Expanding Further
-  - [ ] Visibility and Understanding
-  - [ ] Notifications
-  - [ ] Exercise 11.18
-  - [ ] Metrics
-  - [ ] Periodic tasks
-  - [ ] Exercises 11.19-11.21
-  - [ ] Submitting exercises and getting the credits
+- [ ] a: Introduction to CI/CD [🔗]()https://fullstackopen.com/en/part11/introduction_to_ci_cd
+  - [ ] Getting software to production [🔗](https://fullstackopen.com/en/part11/introduction_to_ci_cd#getting-software-to-production)
+  - [ ] Some useful terms [🔗](https://fullstackopen.com/en/part11/introduction_to_ci_cd#some-useful-terms)
+  - [ ] What is CI? [🔗](https://fullstackopen.com/en/part11/introduction_to_ci_cd#what-is-ci)
+  - [ ] Packaging and Deployment as a part of CI [🔗](https://fullstackopen.com/en/part11/introduction_to_ci_cd#packaging-and-deployment-as-a-part-of-ci)
+  - [ ] Why is it important? [🔗](https://fullstackopen.com/en/part11/introduction_to_ci_cd#why-is-it-important)
+  - [ ] Important principles [🔗](https://fullstackopen.com/en/part11/introduction_to_ci_cd#why-is-it-important)
+  - [ ] Types of CI setup [🔗](https://fullstackopen.com/en/part11/introduction_to_ci_cd#types-of-ci-setup)
+  - [ ] Exercise 11.1 [🔗](https://fullstackopen.com/en/part11/introduction_to_ci_cd#exercise-11-1)
+- [ ] b: Getting started with GitHub Actions [🔗](https://fullstackopen.com/en/part11/getting_started_with_git_hub_actions)
+  - [ ] Basic needs [🔗](https://fullstackopen.com/en/part11/getting_started_with_git_hub_actions#basic-needs)
+  - [ ] Exercise 11.2. [🔗](https://fullstackopen.com/en/part11/getting_started_with_git_hub_actions#exercise-11-2)
+  - [ ] Getting started with workflows [🔗](https://fullstackopen.com/en/part11/getting_started_with_git_hub_actions#getting-started-with-workflows)
+  - [ ] Exercises 11.3-11.4. [🔗](https://fullstackopen.com/en/part11/getting_started_with_git_hub_actions#exercises-11-3-11-4)
+  - [ ] Setting up lint, test and build steps [🔗](https://fullstackopen.com/en/part11/getting_started_with_git_hub_actions#setting-up-lint-test-and-build-steps)
+  - [ ] Exercises 11.5.-11.9. [🔗](https://fullstackopen.com/en/part11/getting_started_with_git_hub_actions#exercises-11-5-11-9)
+- [ ] c: Deployment [🔗](https://fullstackopen.com/en/part11/deployment)
+  - [ ] Anything that can go wrong... [🔗](https://fullstackopen.com/en/part11/deployment#anything-that-can-go-wrong)
+  - [ ] What does a good deployment system do? [🔗](https://fullstackopen.com/en/part11/deployment#what-does-a-good-deployment-system-do)
+  - [ ] Has the app been deployed? [🔗](https://fullstackopen.com/en/part11/deployment#has-the-app-been-deployed)
+  - [ ] Exercises 11.10-11.12. (Fly.io) [🔗](https://fullstackopen.com/en/part11/deployment#exercises-11-10-11-12-fly-io)
+  - [ ] Exercises 11.10-11.12. (Render) [🔗](https://fullstackopen.com/en/part11/deployment#exercises-11-10-11-12-fly-io)
+- [ ] d: Keeping green [🔗](https://fullstackopen.com/en/part11/keeping_green)
+  - [ ] Working with Pull Requests [🔗](https://fullstackopen.com/en/part11/keeping_green#working-with-pull-requests)
+  - [ ] Exercises 11.13-11.14. [🔗](https://fullstackopen.com/en/part11/keeping_green#exercises-11-13-11-14)
+  - [ ] Versioning [🔗](https://fullstackopen.com/en/part11/keeping_green#versioning)
+  - [ ] Exercises 11.15-11.16. [🔗](https://fullstackopen.com/en/part11/keeping_green#exercises-11-15-11-16)
+  - [ ] A note about using third-party actions [🔗](https://fullstackopen.com/en/part11/keeping_green#a-note-about-using-third-party-actions)
+  - [ ] Keep the main branch protected [🔗](https://fullstackopen.com/en/part11/keeping_green#keep-the-main-branch-protected)
+  - [ ] Exercise 11.17 [🔗](https://fullstackopen.com/en/part11/keeping_green#exercise-11-17)
+- [ ] e: Expanding Further [🔗](https://fullstackopen.com/en/part11/expanding_further)
+  - [ ] Visibility and Understanding [🔗](https://fullstackopen.com/en/part11/expanding_further#visibility-and-understanding)
+  - [ ] Notifications [🔗](https://fullstackopen.com/en/part11/expanding_further#notifications)
+  - [ ] Exercise 11.18 [🔗](https://fullstackopen.com/en/part11/expanding_further#notifications)
+  - [ ] Metrics [🔗](https://fullstackopen.com/en/part11/expanding_further#metrics)
+  - [ ] Periodic tasks [🔗](https://fullstackopen.com/en/part11/expanding_further#periodic-tasks)
+  - [ ] Exercises 11.19-11.21 [🔗](https://fullstackopen.com/en/part11/expanding_further#exercises-11-19-11-21)
+  - [ ] Submitting exercises and getting the credits [🔗](https://fullstackopen.com/en/part11/expanding_further#submitting-exercises-and-getting-the-credits)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 12: Containers</span></summary> 
 
-- [ ] a: Introduction to Containers
-  - [ ] About this part
-  - [ ] Exercise 12.1
-  - [ ] Warning
-  - [ ] Submitting exercises and earning credits
-  - [ ] Tools of the trade
-  - [ ] Installing everything required for this part
-  - [ ] Containers and images
-  - [ ] Exercise 12.2
-  - [ ] Ubuntu image
-  - [ ] Exercise 12.3 - 12.4
-  - [ ] Other Docker commands
-- [ ] b: Building and configuring environments
-  - [ ] Dockerfile
-  - [ ] More meaningful image
-  - [ ] Exercise 12.5.
-  - [ ] Using Docker compose
-  - [ ] Exercise 12.6.
-  - [ ] Utilizing containers in development
-  - [ ] Bind mount and initializing the database
-  - [ ] Still problems?
-  - [ ] Persisting data with volumes
-  - [ ] Exercise 12.7.
-  - [ ] Debugging issues in containers
-  - [ ] Exercise 12.8.
-  - [ ] Redis
-  - [ ] Exercises 12.9. - 12.11.
-  - [ ] Persisting data with Redis
-  - [ ] Exercise 12.12.
-- [ ] c: Basics of Orchestration
-  - [ ] React in container
-  - [ ] Using multiple stages
-  - [ ] Exercises 12.13 - 12.14.
-  - [ ] Development in containers
-  - [ ] Exercise 12.15
-  - [ ] Communication between containers in a Docker network
-  - [ ] Exercise 12.16
-  - [ ] Communications between containers in a more ambitious environment
-  - [ ] Exercises 12.17. - 12.19.
-  - [ ] Tools for Production
-  - [ ] Exercises 12.20.-12.22.
-  - [ ] Submitting exercises and getting the credits
+- [ ] a: Introduction to Containers [🔗](https://fullstackopen.com/en/part12/introduction_to_containers)
+  - [ ] About this part [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#about-this-part)
+  - [ ] Exercise 12.1 [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#exercise-12-1)
+  - [ ] Warning [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#warning)
+  - [ ] Submitting exercises and earning credits [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#submitting-exercises-and-earning-credits)
+  - [ ] Tools of the trade [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#tools-of-the-trade)
+  - [ ] Installing everything required for this part [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#installing-everything-required-for-this-part)
+  - [ ] Containers and images [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#containers-and-images)
+  - [ ] Exercise 12.2 [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#containers-and-images)
+  - [ ] Ubuntu image [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#ubuntu-image)
+  - [ ] Exercise 12.3 - 12.4 [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#exercise-12-3-12-4)
+  - [ ] Other Docker commands [🔗](https://fullstackopen.com/en/part12/introduction_to_containers#other-docker-commands)
+- [ ] b: Building and configuring environments [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments)
+  - [ ] Dockerfile [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#dockerfile)
+  - [ ] More meaningful image [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#more-meaningful-image)
+  - [ ] Exercise 12.5. [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#exercise-12-5)
+  - [ ] Using Docker compose [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#using-docker-compose)
+  - [ ] Exercise 12.6. [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#exercise-12-6)
+  - [ ] Utilizing containers in development [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#utilizing-containers-in-development)
+  - [ ] Bind mount and initializing the database [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#bind-mount-and-initializing-the-database)
+  - [ ] Still problems? [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#still-problems)
+  - [ ] Persisting data with volumes [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#persisting-data-with-volumes)
+  - [ ] Exercise 12.7. [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#exercise-12-7)
+  - [ ] Debugging issues in containers [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#debugging-issues-in-containers)
+  - [ ] Exercise 12.8. [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#exercise-12-8)
+  - [ ] Redis [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#redis)
+  - [ ] Exercises 12.9. - 12.11. [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#exercises-12-9-12-11)
+  - [ ] Persisting data with Redis [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#persisting-data-with-redis)
+  - [ ] Exercise 12.12. [🔗](https://fullstackopen.com/en/part12/building_and_configuring_environments#exercise-12-12)
+- [ ] c: Basics of Orchestration [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration)
+  - [ ] React in container [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#react-in-container)
+  - [ ] Using multiple stages [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#using-multiple-stages)
+  - [ ] Exercises 12.13 - 12.14. [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#exercises-12-13-12-14)
+  - [ ] Development in containers [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#development-in-containers)
+  - [ ] Exercise 12.15 [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#exercise-12-15)
+  - [ ] Communication between containers in a Docker network [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#communication-between-containers-in-a-docker-network)
+  - [ ] Exercise 12.16 [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#exercise-12-16)
+  - [ ] Communications between containers in a more ambitious environment [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#communications-between-containers-in-a-more-ambitious-environment)
+  - [ ] Exercises 12.17. - 12.19. [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#exercises-12-17-12-19)
+  - [ ] Tools for Production [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#tools-for-production)
+  - [ ] Exercises 12.20.-12.22. [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#exercises-12-20-12-22)
+  - [ ] Submitting exercises and getting the credits [🔗](https://fullstackopen.com/en/part12/basics_of_orchestration#submitting-exercises-and-getting-the-credits)
 </details>
 
 <details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 13: Using relational databases</span></summary> 
 
-- [ ] a: Using relational databases with Sequelize
-  - [ ] Advantages and disadvantages of document databases
-  - [ ] Application database
-  - [ ] Node application using a relational database
-  - [ ] Model
-  - [ ] Exercises 13.1.-13.3.
-  - [ ] Creating database tables automatically
-  - [ ] Other operations
-  - [ ] Printing the objects returned by Sequelize to the console
-  - [ ] Exercise 13.4.
-- [ ] b: Join tables and queries
-  - [ ] Application structuring
-  - [ ] Exercises 13.5.-13.7.
-  - [ ] User management
-  - [ ] Connection between the tables
-  - [ ] Proper insertion of notes
-  - [ ] Fine-tuning
-  - [ ] Attention to the definition of the models
-  - [ ] Exercises 13.8.-13.12.
-  - [ ] More queries
-  - [ ] Exercises 13.13.-13.16
-- [ ] c: Migrations, many-to-many relationships
-  - [ ] Migrations
-  - [ ] Admin user and user disabling
-  - [ ] Exercises 13.17-13.18.
-  - [ ] Many-to-many relationships
-  - [ ] Note on the properties of Sequelize model objects
-  - [ ] Revisiting many-to-many relationships
-  - [ ] Exercises 13.19.-13.23.
-  - [ ] Concluding remarks
-  - [ ] Exercise 13.24.
-  - [ ] Submitting exercises and getting the credits
+- [ ] a: Using relational databases with Sequelize [🔗](https://fullstackopen.com/en/part13/using_relational_databases_with_sequelize)
+  - [ ] Advantages and disadvantages of document databases [🔗](https://fullstackopen.com/en/part13/using_relational_databases_with_sequelize#advantages-and-disadvantages-of-document-databases)
+  - [ ] Application database [🔗](https://fullstackopen.com/en/part13/using_relational_databases_with_sequelize#application-database)
+  - [ ] Node application using a relational database [🔗](https://fullstackopen.com/en/part13/using_relational_databases_with_sequelize#node-application-using-a-relational-database)
+  - [ ] Model [🔗](https://fullstackopen.com/en/part13/using_relational_databases_with_sequelize#model)
+  - [ ] Exercises 13.1.-13.3. [🔗](https://fullstackopen.com/en/part13/using_relational_databases_with_sequelize#exercises-13-1-13-3)
+  - [ ] Creating database tables automatically [🔗](https://fullstackopen.com/en/part13/using_relational_databases_with_sequelize#creating-database-tables-automatically)
+  - [ ] Other operations [🔗](https://fullstackopen.com/en/part13/using_relational_databases_with_sequelize#other-operations)
+  - [ ] Printing the objects returned by Sequelize to the console [🔗](https://fullstackopen.com/en/part13/using_relational_databases_with_sequelize#printing-the-objects-returned-by-sequelize-to-the-console)
+  - [ ] Exercise 13.4. [🔗](https://fullstackopen.com/en/part13/using_relational_databases_with_sequelize#exercise-13-4)
+- [ ] b: Join tables and queries [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries)
+  - [ ] Application structuring [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries#application-structuring)
+  - [ ] Exercises 13.5.-13.7. [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries#exercises-13-5-13-7)
+  - [ ] User management [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries#exercises-13-5-13-7)
+  - [ ] Connection between the tables [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries#connection-between-the-tables)
+  - [ ] Proper insertion of notes [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries#proper-insertion-of-notes)
+  - [ ] Fine-tuning [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries#fine-tuning)
+  - [ ] Attention to the definition of the models [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries#attention-to-the-definition-of-the-models)
+  - [ ] Exercises 13.8.-13.12. [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries#exercises-13-8-13-12)
+  - [ ] More queries [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries#more-queries)
+  - [ ] Exercises 13.13.-13.16 [🔗](https://fullstackopen.com/en/part13/join_tables_and_queries#exercises-13-13-13-16)
+- [ ] c: Migrations, many-to-many relationships [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships)
+  - [ ] Migrations [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships#migrations)
+  - [ ] Admin user and user disabling [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships#admin-user-and-user-disabling)
+  - [ ] Exercises 13.17-13.18. [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships#admin-user-and-user-disabling)
+  - [ ] Many-to-many relationships [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships#many-to-many-relationships)
+  - [ ] Note on the properties of Sequelize model objects [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships#note-on-the-properties-of-sequelize-model-objects)
+  - [ ] Revisiting many-to-many relationships [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships#revisiting-many-to-many-relationships)
+  - [ ] Exercises 13.19.-13.23. [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships#exercises-13-19-13-23)
+  - [ ] Concluding remarks [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships#concluding-remarks)
+  - [ ] Exercise 13.24. [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships#exercise-13-24)
+  - [ ] Submitting exercises and getting the credits [🔗](https://fullstackopen.com/en/part13/migrations_many_to_many_relationships#submitting-exercises-and-getting-the-credits)
 </details>
 

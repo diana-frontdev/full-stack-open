@@ -1,3 +1,5 @@
+# Sequence Diagrams
+
 ## Definition:
 A sequence diagram is an illustrative representation of interactions between processes, demonstrating their operational flow and the sequence of execution.
 

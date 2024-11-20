@@ -81,6 +81,11 @@ Use a UML modeling tool or diagramming software to create a neat and professiona
 
 ___
 
+## Syntax:
+
+https://mermaid.js.org/syntax/sequenceDiagram.html
+___
+
 Credits:
 * [ [Freecodecamp: How to Create Diagrams as Code with Mermaid, GitHub, and Visual Studio Code](https://www.freecodecamp.org/news/diagrams-as-code-with-mermaid-github-and-vs-code/) ]
 * [ [GeeksforGeeks: Sequence Diagrams – Unified Modeling Language (UML](https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/) ] 

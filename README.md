@@ -3,7 +3,7 @@ Course material available at [https://fullstackopen.com/en/#course-contents](htt
 ___
 ## Progress tracking
 
-<details open> 
+<details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 0: Fundamentals of Web apps</span></summary> 
 
 - [x] a: General info
@@ -25,7 +25,7 @@ ___
     - [x] Exercises 0.1.-0.6. [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#exercises-0-1-0-6)
 </details>
 
-<details> 
+<details open> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 1: Introduction to React</span></summary>
 
 - [ ] a: Introduction to React [🔗](https://fullstackopen.com/en/part1/introduction_to_react)

@@ -3,11 +3,11 @@ Course material available at [https://fullstackopen.com/en/#course-contents](htt
 ___
 ## Progress tracking
 
-<details open> 
+<details> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 0: Fundamentals of Web apps</span></summary> 
 
 - [x] a: General info
-- [ ] b: Fundamentals of Web apps [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
+- [x] b: Fundamentals of Web apps [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
     - [x] HTTP GET [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#http-get)
     - [x] Traditional web applications [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#traditional-web-applications)
     - [x] Running application logic in the browser [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#running-application-logic-in-the-browser)
@@ -22,21 +22,21 @@ ___
     - [x] JavaScript-libraries [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#java-script-libraries)
     - [x] Full-stack web development [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#full-stack-web-development)
     - [x] JavaScript fatigue [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#java-script-fatigue)
-    - [ ] Exercises 0.1.-0.6. [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#exercises-0-1-0-6)
+    - [x] Exercises 0.1.-0.6. [🔗](https://fullstackopen.com/en/part0/fundamentals_of_web_apps#exercises-0-1-0-6)
 </details>
 
-<details> 
+<details open> 
 <summary><span style="font-weight: bold; font-size: 16px;">Part 1: Introduction to React</span></summary>
 
 - [ ] a: Introduction to React [🔗](https://fullstackopen.com/en/part1/introduction_to_react)
-  - [ ] create-react-app [🔗](https://fullstackopen.com/en/part1/introduction_to_react#create-react-app)
-  - [ ] Component [🔗](https://fullstackopen.com/en/part1/introduction_to_react#component)
-  - [ ] JSX [🔗](https://fullstackopen.com/en/part1/introduction_to_react#jsx)
-  - [ ] Multiple components [🔗](https://fullstackopen.com/en/part1/introduction_to_react#multiple-components)
-  - [ ] props: passing data to components [🔗](https://fullstackopen.com/en/part1/introduction_to_react#props-passing-data-to-components)
-  - [ ] Possible error message [🔗](https://fullstackopen.com/en/part1/introduction_to_react#possible-error-message)
-  - [ ] Some notes [🔗](https://fullstackopen.com/en/part1/introduction_to_react#some-notes)
-  - [ ] Do not render objects [🔗](https://fullstackopen.com/en/part1/introduction_to_react#do-not-render-objects)
+  - [x] create-react-app [🔗](https://fullstackopen.com/en/part1/introduction_to_react#create-react-app)
+  - [x] Component [🔗](https://fullstackopen.com/en/part1/introduction_to_react#component)
+  - [x] JSX [🔗](https://fullstackopen.com/en/part1/introduction_to_react#jsx)
+  - [x] Multiple components [🔗](https://fullstackopen.com/en/part1/introduction_to_react#multiple-components)
+  - [x] props: passing data to components [🔗](https://fullstackopen.com/en/part1/introduction_to_react#props-passing-data-to-components)
+  - [x] Possible error message [🔗](https://fullstackopen.com/en/part1/introduction_to_react#possible-error-message)
+  - [x] Some notes [🔗](https://fullstackopen.com/en/part1/introduction_to_react#some-notes)
+  - [x] Do not render objects [🔗](https://fullstackopen.com/en/part1/introduction_to_react#do-not-render-objects)
   - [ ] Exercises 1.1.-1.2. [🔗](https://fullstackopen.com/en/part1/introduction_to_react#exercises-1-1-1-2)
 - [ ] b: JavaScript [🔗](https://fullstackopen.com/en/part1/java_script)
   - [ ] Variables [🔗](https://fullstackopen.com/en/part1/java_script#variables)

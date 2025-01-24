@@ -37,7 +37,7 @@ ___
   - [x] Possible error message [🔗](https://fullstackopen.com/en/part1/introduction_to_react#possible-error-message)
   - [x] Some notes [🔗](https://fullstackopen.com/en/part1/introduction_to_react#some-notes)
   - [x] Do not render objects [🔗](https://fullstackopen.com/en/part1/introduction_to_react#do-not-render-objects)
-  - [ ] Exercises 1.1.-1.2. [🔗](https://fullstackopen.com/en/part1/introduction_to_react#exercises-1-1-1-2)
+  - [ ] Exercises 1.1.-1.2. [🔗](https://fullstackopen.com/en/part1/introduction_to_react#exercises-1-1-1-2) (next: 1.2: Course Information, step 2)
 - [ ] b: JavaScript [🔗](https://fullstackopen.com/en/part1/java_script)
   - [ ] Variables [🔗](https://fullstackopen.com/en/part1/java_script#variables)
   - [ ] Arrays [🔗](https://fullstackopen.com/en/part1/java_script#arrays)

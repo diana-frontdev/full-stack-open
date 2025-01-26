@@ -43,7 +43,7 @@ ___
   - [x] Arrays [🔗](https://fullstackopen.com/en/part1/java_script#arrays)
   - [x] Objects [🔗](https://fullstackopen.com/en/part1/java_script#objects)
   - [x] Functions [🔗](https://fullstackopen.com/en/part1/java_script#functions)
-  - [ ] Exercises 1.3.-1.5. [🔗](https://fullstackopen.com/en/part1/java_script#exercises-1-3-1-5) (next: 1.4: Course Information step 4)
+  - [x] Exercises 1.3.-1.5. [🔗](https://fullstackopen.com/en/part1/java_script#exercises-1-3-1-5)
   - [ ] Object methods and "this" [🔗](https://fullstackopen.com/en/part1/java_script#object-methods-and-this)
   - [ ] Classes [🔗](https://fullstackopen.com/en/part1/java_script#classes)
   - [ ] JavaScript materials [🔗](https://fullstackopen.com/en/part1/java_script#java-script-materials)

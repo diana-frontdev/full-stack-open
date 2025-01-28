@@ -58,7 +58,7 @@ ___
   - [x] Changes in state cause re-rendering [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#changes-in-state-cause-re-rendering)
   - [x] Refactoring the components [🔗](https://fullstackopen.com/en/part1/component_state_event_handlers#refactoring-the-components)
 - [ ] d: A more complex state, debugging React apps [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps)
-  - [ ] Complex state [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#complex-state)
+  - [x] Complex state [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#complex-state)
   - [ ] Handling arrays [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#handling-arrays)
   - [ ] Update of the state is asynchronous [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#update-of-the-state-is-asynchronous)
   - [ ] Conditional rendering [🔗](https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#conditional-rendering)
